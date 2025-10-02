@@ -1,0 +1,1 @@
+print('Bienvenidos al gestor de tickets para soporte')
