@@ -1,7 +1,7 @@
 package com.example.ticketsupport
 
 fun main() {
-    println( Operadores Aritméticos en el Sistema de Soporte Técnico")
+    println( "Operadores Aritméticos en el Sistema de Soporte Técnico")
 
     val costoBase: Double = 45.0
     val horasExtra: Double = 2.0

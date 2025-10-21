@@ -1,4 +1,3 @@
-// Pedestrian traffic light logic
 fun main() {
     print("Color del semáforo (rojo/amarillo/verde): ")
     val color = readln().trim().lowercase()
