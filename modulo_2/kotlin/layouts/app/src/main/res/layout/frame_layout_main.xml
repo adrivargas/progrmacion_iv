@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:src="@drawable/foto"
             android:layout_gravity="end|bottom"
-            android:layout_margin="64dp"/>
-
+            android:layout_margin="64dp"
+            />
+    />
 </FrameLayout>
